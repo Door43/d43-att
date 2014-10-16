@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[att:home|Door43 (att)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-att|d43-att repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-att/archive/master.zip|d43-att.zip]]
+
+**Recent Changes**
+{{changes>ns = att}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/att|Ethnologue data]]
+
